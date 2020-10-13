@@ -1,3 +1,10 @@
+/* Projeto do primeiro módulo do curso da Generation Brasil. O objetivo nessa fase é criptografar palavras que utilizem letras de A a Z sem caracter especial
+ * Grupo: Gisele da Silva Carvalho; 
+ * Fabiano Aparecido Santos Junior - https://github.com/FabiianoDev; 
+ * Maurício Rodrigues Brito de Deus - https://github.com/MauricioRodriguesBD; 
+ * Rubens Almeida de Andrade - https://github.com/Rubenscode.
+ */
+
 package cripto;
 
 import java.util.Scanner;
